@@ -3,6 +3,9 @@ def add(x,y):
         return x+y
 
     def substract(x,y):
-            ## Subtract 
+            ## Subtract add newly
             return x - y
+
+    def mul(x,y):
+        return x*y
 
