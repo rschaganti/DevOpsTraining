@@ -4,8 +4,6 @@ def add(x,y):
 
     def substract(x,y):
             ## Subtract add newly
-            return x - y
-
-    def mul(x,y):
-        return x*y
+            #added sub branch
+            return x-y
 
